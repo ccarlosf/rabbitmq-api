@@ -1,4 +1,4 @@
-package com.ccarlos.rabbitmqapi.quickstart;
+package com.ccarlos.rabbitmq.quickstart;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
